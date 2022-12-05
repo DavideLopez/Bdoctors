@@ -5,6 +5,7 @@ import moment from 'moment';
 import VueMoment from 'vue-moment';
 
 require('moment');
+require('bootstrap');
 
 Vue.use(VueMoment,{moment});
 

@@ -94,6 +94,9 @@
       <h5 class="text-uppercase text-white">Creato da:</h5>
 
       <ul class="list-unstyled text-white">
+          <li>
+            <a href="https://github.com/DavideLopez">Davide Lopez</a>
+          </li>
         <li>
           <a href="https://github.com/Smurrowz">Nigel Di Nella</a>
         </li>
@@ -105,9 +108,6 @@
         </li>
         <li>
           <a href="https://github.com/Starliege">Filippo Urriani</a>
-        </li>
-        <li>
-          <a href="https://github.com/DavideLopez">Davide Lopez</a>
         </li>
       </ul>
 

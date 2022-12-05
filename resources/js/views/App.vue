@@ -30,7 +30,7 @@ import Nav from '../components/Nav.vue';
 import Home from '../pages/Home.vue';
 import SearchBar from '../components/SearchBar.vue';
 import SearchBarSel from '../components/SearchBarSel.vue';
-// import Description from '../components/Description.vue';
+
 
 
 export default {
